@@ -1,6 +1,10 @@
 {
   "name": "gatsby-starter-glass",
   "private": true,
+  "engine":{ 
+    "npm" : ">=18.0.0 <22.0.0",
+    "node" : ">=18.0.0 <20.0.0"
+  },
   "description": "A minimal & beautiful gatsby personal blog starter with a nice glassmorphism UI.",
   "version": "1.0.0",
   "author": "Yinka Adedire <yinkakun@gmail.com>",
