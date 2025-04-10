@@ -13,7 +13,6 @@
     "gatsby-plugin-manifest": "*",
     "gatsby-plugin-netlify-cms": "*",
     "gatsby-plugin-react-helmet": "*",
-    "gatsby-plugin-sharp": "*",
     "gatsby-plugin-styled-components": "*",
     "gatsby-plugin-use-dark-mode": "*",
     "gatsby-remark-copy-linked-files": "*",
